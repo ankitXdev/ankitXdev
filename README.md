@@ -1,4 +1,4 @@
-# Hey there! I'm Ankit <img src="https://raw.githubusercontent.com/itsvinayak/animated-emojis/main/wave-small.gif" width="26" />
+# ✨Hey there! I'm Ankit <img src="https://raw.githubusercontent.com/itsvinayak/animated-emojis/main/wave-small.gif" width="26" />
 
 - Developer from India who builds whatever I can imagine.  
 - If an idea pops into my head, I’ll probably design it, build it, and ship it.
