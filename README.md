@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey there! I'm Ankit
 
-<!--
-**ankitXdev/ankitXdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Developer from India who builds whatever I can imagine.  
+- If an idea pops into my head, I’ll probably design it, build it, and ship it.
 
-Here are some ideas to get you started:
+### Tech Stack  
+SQL, MySQL, MongoDB, PostgreSQL, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Power BI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Favorite Tools  
+VS Code, MongoDB Compass, Power BI, and a few others here and there.
+
+### Favorite Projects  
+BhaariScam (crypto), Anime Scene Gallery, plus five projects completed and many more on the way.
+
+### Fun Facts  
+- I like photography — check my Instagram for my work  
+- I’m a chai lover  
+- Demon Slayer is my favorite anime  
+- Hobbies: gaming, watching movies, building things
