@@ -10,7 +10,7 @@ SQL, MySQL, MongoDB, PostgreSQL, Pandas, NumPy, Matplotlib, Seaborn, Scikit-lear
 VS Code, MongoDB Compass, Power BI, and a few others here and there.
 
 ### Favorite Projects  
-BhaariScam (crypto), Anime Scene Gallery, plus five projects completed and many more on the way.
+BhaariScam (crypto), plus five projects completed and many more on the way.
 
 ### Fun Facts  
 - I like photography — check my Instagram for my work  
