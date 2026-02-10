@@ -13,6 +13,6 @@ VS Code, MongoDB Compass, Power BI, and a few others here and there.
 BhaariScam (crypto), plus five projects completed and many more on the way.
 
 ### Fun Facts  
-- I like photography — check my Instagram for my work  
+- I like photography — check my Instagram for my work (@yss_ankit_sen)
 - I’m a chai lover  
 - Hobbies: gaming, watching movies, Warhammer 40K, building things
